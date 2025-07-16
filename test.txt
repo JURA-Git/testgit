@@ -1,8 +1,1 @@
-<<<<<<< HEAD
 dev/jura 's modify!
-=======
-
-
-
-test/test's modify
->>>>>>> test/test
